@@ -1,2 +1,2 @@
 # readExcelNumbersAndTextOnWatsapp
-read a Excel file for phone Numbers And Text a mesage On Watsapp
+read a Excel file for phone Numbers And Text a message On Watsapp
